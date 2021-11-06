@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SRS7</string>
+    <string name="text_view">Это textView 1</string>
+    <string name="button_text">КНОПКА</string>
+    <string name="text_view_second">Это textView 2</string>
+</resources>
